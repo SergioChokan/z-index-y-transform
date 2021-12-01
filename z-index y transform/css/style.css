@@ -1,0 +1,345 @@
+
+
+* {
+    font-size: 30px;
+}
+
+
+
+div {
+    background-color: lightgrey;
+}
+
+.cinco_corazones {
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: red;
+    transform: rotate(10deg);
+    z-index: 4;
+
+}
+
+.cabezera_cinco {
+    margin: 10px;
+    height: 80px;
+    width: 50px;
+    /*border: 1px solid black;*/    
+}
+
+.pie_cinco {
+    margin: 10px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.corazon1 {
+    position: absolute;
+    left: 40px;
+    top: 60px;
+    font-size: 50px;
+}
+
+.corazon2 {
+    position: absolute;
+    left: 130px;
+    top: 60px;
+    font-size: 50px;
+}
+
+.corazon3 {
+    position: absolute;
+    left : 85px;
+    top: 120px;
+    font-size: 50px;
+}
+
+
+.corazon4 {
+    position: absolute;
+    left: 130px;
+    bottom: 60px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+
+.corazon5 {
+    position: absolute;
+    left: 40px;
+    bottom: 60px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+
+/*TRES PICA*/
+
+.tres_pica {
+    position: absolute;
+    left: 300px;
+    top: 60px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    transform: rotate(-10deg);
+    z-index: 2;
+
+}
+
+.cabezera_tres {
+    margin: 10px;
+    height: 80px;
+    width: 50px;  
+}
+
+.pie_tres {
+    margin: 10px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.pica1 {
+    position: absolute;
+    left: 85px;
+    top: 40px;
+    font-size: 50px;
+}
+
+.pica2 {
+    position: absolute;
+    left: 85px;
+    top: 120px;
+    font-size: 50px;
+}
+
+.pica3 {
+    position: absolute;
+    left : 85px;
+    bottom: 40px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+
+/*DOS TREBOLES*/
+
+
+.dos_treboles {
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    transform: rotate(-30deg);
+
+}
+
+.cabezera_dos {
+    margin: 10px;
+    height: 80px;
+    width: 50px;
+    /*border: 1px solid black;*/    
+}
+
+.pie_dos {
+    margin: 10px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.treboles_1_2 {
+    position: absolute;
+    left: 85px;
+    top: 40px;
+    font-size: 50px;
+}
+
+.treboles_2_2 {
+    position: absolute;
+    left: 85px;
+    bottom: 40px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+
+/*CUATRO TREBOLES*/
+
+
+.cuatro_treboles {
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    transform: rotate(0deg);
+    z-index: 3;
+
+
+
+}
+
+.cabezera_cuatro {
+    margin: 10px;
+    height: 80px;
+    width: 50px;    
+}
+
+.pie_cuatro {
+    margin: 10px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.treboles_1_4 {
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    font-size: 50px;
+}
+
+.treboles_2_4 {
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 50px;
+    
+}
+
+.treboles_3_4 {
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+.treboles_4_4 {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+
+
+
+/*SIETE TREBOLES*/
+
+.siete_treboles {
+    position: absolute;
+    left: 600px;
+    top: 70px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    transform: rotate(30deg);
+    z-index: 5;
+
+}
+
+.cabezera_siete {
+    margin: 10px;
+    height: 80px;
+    width: 50px;    
+}
+
+.pie_siete {
+    margin: 10px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+.treboles_1_7 {
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    font-size: 50px;
+}
+
+.treboles_2_7 {
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 50px;
+    
+}
+
+.treboles_3_7 {
+    position: absolute;
+    left: 85px;
+    top: 80px;
+    font-size: 50px;
+    
+}
+
+.treboles_4_7 {
+    position: absolute;
+    right: 40px;
+    top: 120px;
+    font-size: 50px;
+   
+}
+.treboles_5_7 {
+    position: absolute;
+    left: 40px;
+    top: 120px;
+    font-size: 50px;
+    
+}
+
+.treboles_6_7 {
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+.treboles_7_7 {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    font-size: 50px;
+    transform: rotate(180deg);
+}
+
+
+
+
+
+
+
+
+
